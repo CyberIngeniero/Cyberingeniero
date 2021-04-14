@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [wordpress](https://cyberingeniero.wordpress.com/)
 
-- 💬 Ask me about **python, Machine Learning, Deep Learning, Statistics**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Statistics, Artificial Inteligence**
 
 - 📫 How to reach me **npino@uc.cl**
 
