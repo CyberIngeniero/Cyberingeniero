@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **HDI Seguros Chile**
 
-- 🌱 I’m currently learning [**Full Stack Deep Learning**](https://fullstackdeeplearning.com/spring2021/)
+- 🌱 I’m currently learning [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
 
-- 👨‍💻 All of my projects are available at [www.cyberingeniero.ai](www.cyberingeniero.ai)
+- 👨‍💻 All of my projects are available at [my web site](www.cyberingeniero.ai)
 
-- 📝 I regularly write articles on [https://cyberingeniero.wordpress.com/](https://cyberingeniero.wordpress.com/)
+- 📝 I regularly write articles on [wordpress](https://cyberingeniero.wordpress.com/)
 
 - 💬 Ask me about **python, Machine Learning, Deep Learning, Statistics**
 
