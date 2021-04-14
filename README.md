@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nibaldo Pino A.</h1>
 <h3 align="center">A passionate Data Scientist from Santiago of Chile.</h3>
+<h3 align="center">Data Scientist | MSc Statistics | Math Teacher | Bachelor Engineering Sciences</h3>
 
 - 🔭 I’m currently working on **HDI Seguros Chile**
 
