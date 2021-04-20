@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
 
-- 👨‍💻 All of my projects are available at [my web site](www.cyberingeniero.ai)
+- 👨‍💻 All of my projects are available at [my web site](https://about.me/cyberingeniero)
 
 - 📝 I regularly write articles on [wordpress](https://cyberingeniero.wordpress.com/)
 
