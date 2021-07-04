@@ -3,7 +3,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Nibaldo Pino A.</h1>
-<h3 align="center">Co-Founder and CTO in 🚀 [Kuva.ai](https://www.kuva.ai).</h3>
+<h3 align="center">Co-Founder and CTO in 🚀 <a href="https://www.kuva.ai">Kuva.ai</a>.</h3>
 <h3 align="center">A passionate Data Scientist from Santiago of Chile.</h3>
 <h6 align="center">Data Scientist | MSc Statistics | Math Teacher | Bachelor Engineering Sciences</h6>
 
