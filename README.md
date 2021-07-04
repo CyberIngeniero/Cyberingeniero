@@ -10,7 +10,9 @@
 
 - 🔭 I’m currently working on **HDI Seguros Chile**
 
-- 🌱 I’m currently learning [Full Stack Deep Learning](https://fullstackdeeplearning.com/spring2021/)
+- 👯 I’m looking to collaborate on [Object Detection](https://github.com/jaarroyl/Box_Control) 
+
+- 🌱 I’m currently learning [Jetson IA Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
 
 - 👨‍💻 All of my projects are available at [my web site](https://nibaldopinoaraya.com)
 
