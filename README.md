@@ -1,47 +1,106 @@
-![ViewCount](https://komarev.com/ghpvc/?username=cyberingeniero&color=green&style=flat)
+<!-- Inspiration: https://github.com/rxyhn-->
+
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hello There
+      <br>
+        I'm CyberIngeniero,  Co-Founder and CTO in <a href="https://www.kuva.ai">Kuva.ai</a>.
+      </b>
+   <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=E10404&vcenter=true&width=416&height=45&lines=I+code+Artificial+inteligence+Apps+with+Statistics+Support.">
+   <br>
+   <b>
+        ~ Nibaldo Pino Araya ~
+   </b>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <br>
+<details align="center">
+<summary><samp>extend</samp></summary>
 
-<h1 align="center">Hi 👋, I'm Nibaldo Pino A.</h1>
-<h3 align="center">A passionate Data Scientist from Santiago of Chile.</h3>
-<h4 align="center">Co-Founder and CTO in 🚀 <a href="https://www.kuva.ai">Kuva.ai</a>.</h3>
+<h2></h2><br>
+
+<!-- Contact Me -->
+<p align="center">
+  <samp>
+        <a href="https://www.linkedin.com/in/nibaldopinoaraya/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></a>
+            <a href="mailto:nibaldo.pino.araya@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
+               <a href="https://twitter.com/CyberMath4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a></a>
+    <a href="https://instagram.com/cyberingeniero" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  </samp>
+</p>
+<h2></h2><br>
+
+<!-- More Information -->
+<h3 align="center">Hi 👋, I'm Nibaldo</h3>
+<h4 align="center">Co-Founder and CTO in 🚀 <a href="https://www.kuva.ai">Kuva.ai</a>.</h4>
 <h6 align="center">Data Scientist | MSc Statistics | Math Teacher | Bachelor Engineering Sciences</h6>
 
-<br>
 
-- 🔭 I’m currently working on **HDI Seguros Chile**
+## 👨‍💻 About Me
 
-- 👯 I’m looking to collaborate on [Object Detection](https://github.com/jaarroyl/Box_Control) 
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-- 🌱 I’m currently learning [Jetson IA Certification](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
+class DataScientist:
+    def __init__(self):
+        self.name = "Nibaldo Pino Araya"
+        self.role = "Statistician & Data Scientist"
+        self.current_work = "Lead Actuarial Data Scientist."
+        self.current_work_place = "HDI Seguros Chile"
+        self.current_learning = ["Jetson IA Certification","Master Full Stack Web Development"]
+        self.personal_website = ""
+        self.interests= ["python","ML","DL","IA","Statistics"]
+        self.language_spoken = ["es_ES", "en_US"]
 
-- 👨‍💻 All of my projects are available at [my web site](https://nibaldopinoaraya.com)
+    def say_hi(self):
+        print("Thanks for dropping by.")
 
-- 📝 I regularly write articles on [wordpress](https://cyberingeniero.wordpress.com/)
+me = DataScientist()
+me.say_hi()
+```
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Statistics, Artificial Inteligence**
 
-- 📫 How to reach me **npino@uc.cl**
+## 🔧 Technologies & Tools
 
-- 📄 Know about my experiences [visit my resume](https://github.com/CyberIngeniero/my_resume/blob/main/CV_Nibaldo.pdf)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Git-Bash-informational?style=flat&logo=git&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+ ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)   ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=6aa6f8)  ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=scala&logoColor=white&color=6aa6f8)
+  ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-OracleQL-informational?style=flat&logo=oracle&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)    ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=6aa6f8)  
+ ![](https://img.shields.io/badge/Tools-Scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=openCV&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
+ ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8) 
 
-<br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/cybermath4" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="cybermath4" height="30" width="40" /></a>
-  <a href="https://dev.to/cyberingeniero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="cyberingeniero" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nibaldopinoaraya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nibaldopinoaraya" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/cyberingeniero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="cyberingeniero" height="30" width="40" /></a>
-<a href="https://kaggle.com/cyberingeniero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="cyberingeniero" height="30" width="40" /></a>
-<a href="https://medium.com/@cyberingeniero" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@cyberingeniero" height="30" width="40" /></a>
+## 🔥 Github Stats
+<!-- Github Stats -->
+<p align="center">
+  <samp>
+       <img src="https://komarev.com/ghpvc/?username=cyberingeniero&color=E10404&style=flat" alt="CyberIngeniero" /> 
+       <img src="http://img.shields.io/badge/Code%20Time-1%2C688%20hrs%2011%20mins-E10404" alt="CyberIngeniero"/> 
+       <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-E10404" alt="CyberIngeniero"/> 
+  </samp>
 </p>
 
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyberingeniero&show_icons=true&theme=dark&locale=en&layout=compact" alt="cyberingeniero" /></p>
+<p align="center">
+  <samp>
+    <details>
+      <summary>My Profile Stats</summary>
+        <br>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberIngeniero&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=codeSTACKr&custom_title=CyberIngeniero Github Stats"/>
+    </details>
+ </p>
+ <p align="center">
+  <details> 
+      <summary>My Most Used Languages</summary>
+        <br>
+        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberIngeniero&layout=compact&hide_border=true&theme=codeSTACKr"/>
+        <br>
+        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+    </details>
+  </samp>
+</p>
+</details>
