@@ -19,9 +19,15 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
-<details align="center">
-<summary><samp>extend</samp></summary>
+<p align="center">
+  <br>
+  <details>
+  <summary>
+    <samp>
+      extend
+    </samp>
+  </summary>
+</p>
 
 <h2></h2><br>
 
@@ -34,6 +40,7 @@
     <a href="https://instagram.com/cyberingeniero" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </samp>
 </p>
+
 <h2></h2><br>
 
 <!-- More Information -->
@@ -42,7 +49,9 @@
 <h6 align="center">Data Scientist | MSc Statistics | Math Teacher | Bachelor Engineering Sciences</h6>
 
 
+
 ## 👨‍💻 About Me
+
 
 ```python
 #!/usr/bin/python
@@ -65,7 +74,6 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
-
 
 ## 🔧 Technologies & Tools
 
