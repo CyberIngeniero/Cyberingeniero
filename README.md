@@ -19,15 +19,9 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<p align="center">
-  <br>
-  <details>
-  <summary>
-    <samp>
-      extend
-    </samp>
-  </summary>
-</p>
+<br>
+<details>
+<summary><samp>extend</samp></summary>
 
 <h2></h2><br>
 
@@ -74,6 +68,8 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+
+
 
 ## 🔧 Technologies & Tools
 
