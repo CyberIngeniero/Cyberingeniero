@@ -94,7 +94,7 @@ me.say_hi()
     <details>
       <summary>My Profile Stats</summary>
         <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberIngeniero&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=codeSTACKr&custom_title=CyberIngeniero Github Stats"/>
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberIngeniero&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=codeSTACKr&custom_title=CyberIngeniero%20Github%20Stats"/>
     </details>
  </p>
  <p align="center">
