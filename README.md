@@ -7,10 +7,10 @@
       <b>
         Hello There
       <br>
-        I'm CyberIngeniero,  Co-Founder and CTO in <a href="https://www.kuva.ai">Kuva.ai</a>.
+        I'm CyberIngeniero, ML Engineer & AI Specialist.
       </b>
    <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&duration=4500&color=E10404&center=true&vCenter=true&multiline=true&width=430&lines=I+code+Artificial+Inteligence+Apps;with+Statistical+Support">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&duration=4500&color=E10404&center=true&vCenter=true&multiline=true&width=430&lines=I+develop+apps;based+on+AI.">
    <br>
    <b>
         ~ Nibaldo Pino Araya ~
