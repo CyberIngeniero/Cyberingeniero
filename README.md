@@ -39,8 +39,7 @@
 
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
-<h4 align="center">Co-Founder and CTO in 🚀 <a href="https://www.kuva.ai">Kuva.ai</a>.</h4>
-<h6 align="center">Data Scientist | MSc Statistics | Math Teacher | Bachelor Engineering Sciences</h6>
+<h6 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h6>
 
 
 
@@ -54,12 +53,12 @@
 class DataScientist:
     def __init__(self):
         self.name = "Nibaldo Pino Araya"
-        self.role = "Statistician & Data Scientist"
-        self.current_work = "Lead Actuarial Data Scientist."
+        self.role = "Team Leader | ML Engineer | Statistician"
+        self.current_work = "Leader of Modelling & Analytics Team."
         self.current_work_place = "HDI Seguros Chile"
-        self.current_learning = ["Jetson IA Certification","Master Full Stack Web Development"]
+        self.current_learning = ["Master in PMP"]
         self.personal_website = ""
-        self.interests= ["python","ML","DL","IA","Statistics"]
+        self.interests= ["ML","DL","IA","Statistics"]
         self.language_spoken = ["es_ES", "en_US"]
 
     def say_hi(self):
