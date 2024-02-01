@@ -13,7 +13,7 @@
         <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&duration=1800&color=E10404&center=true&vCenter=true&multiline=true&width=200&lines=I+develop+apps;based+on+AI">
    <br>
    <b>
-        ~ Nibaldo Pino Araya ~
+        ~ Nibaldo ~
    </b>
     </samp>
   </p>
