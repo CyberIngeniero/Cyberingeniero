@@ -107,3 +107,5 @@ me.say_hi()
   </samp>
 </p>
 </details>
+
+<a href="https://app.daily.dev/cyberingeniero"><img src="https://api.daily.dev/devcards/v2/OkZ1hd5Fhatzm89UmeJOs.png?r=4tp&type=default" width="356" alt="Nibaldo's Dev Card"/></a>
