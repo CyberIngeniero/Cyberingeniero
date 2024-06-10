@@ -19,10 +19,6 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<br>
-<details>
-<summary><samp>extend</samp></summary>
-
 <h2></h2><br>
 
 <!-- Contact Me -->
@@ -36,6 +32,10 @@
 </p>
 
 <h2></h2><br>
+
+<br>
+<details>
+<summary><samp>extend</samp></summary>
 
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
@@ -106,6 +106,14 @@ me.say_hi()
     </details>
   </samp>
 </p>
-</details>
 
-<a href="https://app.daily.dev/cyberingeniero"><img src="https://api.daily.dev/devcards/v2/OkZ1hd5Fhatzm89UmeJOs.png?r=4tp&type=default" width="356" alt="Nibaldo's Dev Card"/></a>
+<p align="center">
+  <details> 
+      <summary>Others!</summary>
+       <a href="https://app.daily.dev/cyberingeniero"><img src="https://api.daily.dev/devcards/v2/OkZ1hd5Fhatzm89UmeJOs.png?r=4tp&type=default" width="356" alt="Nibaldo's Dev Card"/></a>
+    </details>
+  </samp>
+</p>
+
+
+</details>
