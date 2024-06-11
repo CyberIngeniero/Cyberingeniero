@@ -10,7 +10,7 @@
         I'm CyberIngeniero, ML Engineer & AI Specialist.
       </b>
    <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&duration=1800&color=E10404&center=true&vCenter=true&multiline=true&width=200&lines=Shaping+tomorrow+through+AI.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=15&duration=3000&color=E10404&center=true&vCenter=true&multiline=true&width=300&lines=Shaping+tomorrow+through+AI.">
    <br>
    <b>
         ~ Nibaldo ~
@@ -32,10 +32,6 @@
 </p>
 
 <h2></h2><br>
-
-<br>
-<details>
-<summary><samp>extend</samp></summary>
 
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
@@ -67,8 +63,11 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
+<h2></h2><br>
 
-
+<br>
+<details>
+<summary><samp>extend</samp></summary>
 
 ## 🔧 Technologies & Tools
 
