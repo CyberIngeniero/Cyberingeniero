@@ -35,7 +35,7 @@
 <h2></h2>
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
-<h6 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h6>
+<h5 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h5>
 
 
 ## 👨‍💻 About Me
