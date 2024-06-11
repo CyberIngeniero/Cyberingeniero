@@ -1,5 +1,8 @@
 <!-- Inspiration: https://github.com/rxyhn-->
 
+<!-- Header -->
+![Header](./header.png)
+
 <h2></h2>
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
@@ -16,10 +19,10 @@
    <b>
         ~ Nibaldo ~
    </b>
-    </samp>
-  </p>
-<p align="right"><strong><samp>」</samp></strong></p>
+  </samp>
+</p>
 
+<p align="right"><strong><samp>」</samp></strong></p>
 
 <h2></h2>
 <!-- Contact Me -->
@@ -37,7 +40,7 @@
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
 <h5 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h5>
 
-
+<h2></h2>
 ## 👨‍💻 About Me
 
 ```python
