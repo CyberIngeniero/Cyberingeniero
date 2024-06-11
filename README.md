@@ -10,7 +10,7 @@
         I'm CyberIngeniero, ML Engineer & AI Specialist.
       </b>
    <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&duration=1800&color=E10404&center=true&vCenter=true&multiline=true&width=200&lines=I+develop+apps;based+on+AI">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&duration=1800&color=E10404&center=true&vCenter=true&multiline=true&width=200&lines=Shaping+tomorrow+through+AI.">
    <br>
    <b>
         ~ Nibaldo ~
