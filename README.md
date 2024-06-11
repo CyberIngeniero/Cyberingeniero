@@ -1,5 +1,6 @@
 <!-- Inspiration: https://github.com/rxyhn-->
 
+<h2></h2>
 <!-- Profile -->
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
@@ -19,8 +20,8 @@
   </p>
 <p align="right"><strong><samp>」</samp></strong></p>
 
-<h2></h2><br>
 
+<h2></h2>
 <!-- Contact Me -->
 <p align="center">
   <samp>
@@ -31,16 +32,13 @@
   </samp>
 </p>
 
-<h2></h2><br>
-
+<h2></h2>
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
 <h6 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h6>
 
 
-
 ## 👨‍💻 About Me
-
 
 ```python
 #!/usr/bin/python
@@ -63,11 +61,10 @@ class DataScientist:
 me = DataScientist()
 me.say_hi()
 ```
-<h2></h2><br>
 
-<br>
+
 <details>
-<summary><samp>extend</samp></summary>
+  <summary><samp>extend</samp></summary>
 
 ## 🔧 Technologies & Tools
 
@@ -76,6 +73,8 @@ me.say_hi()
   ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-OracleQL-informational?style=flat&logo=oracle&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)    ![](https://img.shields.io/badge/Tools-MariaDB-informational?style=flat&logo=mariadb&logoColor=white&color=6aa6f8)
  ![](https://img.shields.io/badge/Tools-Scikitlearn-informational?style=flat&logo=scikitlearn&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=6aa6f8)![](https://img.shields.io/badge/Tools-OpenCV-informational?style=flat&logo=openCV&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Selenium-informational?style=flat&logo=selenium&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=flask&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Django-informational?style=flat&logo=django&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=6aa6f8)
  ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=6aa6f8)
+
+<h2></h2>
 
 ## 🔥 Github Stats
 <!-- Github Stats -->
@@ -87,29 +86,20 @@ me.say_hi()
   </samp>
 </p>
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/CyberIngeniero/CyberIngeniero/output/snake.svg" alt="Snake animation" />
-
+<p align="center">
+  <samp>
+       <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberIngeniero&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=codeSTACKr&custom_title=CyberIngeniero%20Github%20Stats"/>
+       <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberIngeniero&layout=compact&hide_border=true&theme=codeSTACKr"/>
+  </samp>
+</p>
 
 <p align="center">
   <samp>
-    <details>
-      <summary>My Profile Stats</summary>
-        <br>
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CyberIngeniero&show_icons=true&include_all_commits=true&count_private=true&hide=issues&hide_border=true&theme=codeSTACKr&custom_title=CyberIngeniero%20Github%20Stats"/>
-    </details>
- </p>
- <p align="center">
-  <details>
-      <summary>My Most Used Languages</summary>
-        <br>
-        <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberIngeniero&layout=compact&hide_border=true&theme=codeSTACKr"/>
-        <br>
-        <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-    </details>
+       <img src="https://raw.githubusercontent.com/CyberIngeniero/CyberIngeniero/output/snake.svg" alt="Snake animation" />
   </samp>
 </p>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <p align="center">
   <details>
