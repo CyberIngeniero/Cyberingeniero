@@ -38,7 +38,7 @@
 <h2></h2>
 <!-- More Information -->
 <h3 align="center">Hi 👋, I'm Nibaldo</h3>
-<h5 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h5>
+<h5 align="center">Senior ML Engineer | Master in PMP | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h5>
 
 <h2></h2>
 
