@@ -29,7 +29,7 @@
 <p align="center">
   <samp>
         <a href="https://www.linkedin.com/in/nibaldopinoaraya/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"></a></a>
-            <a href="mailto:nibaldo.pino.araya@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
+            <a href="mailto:nibaldo@cyberingeniero.ai" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a></a>
                <a href="https://twitter.com/CyberMath4" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a></a>
     <a href="https://instagram.com/cyberingeniero" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   </samp>
