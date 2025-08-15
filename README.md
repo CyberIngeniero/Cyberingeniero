@@ -52,10 +52,10 @@ class DataScientist:
     def __init__(self):
         self.name = "Nibaldo Pino Araya"
         self.role = "Team Leader | ML Engineer | Statistician"
-        self.current_work = "Leader of Modelling & Analytics Team."
-        self.current_work_place = "HDI Seguros Chile"
-        self.current_learning = ["Master in PMP"]
-        self.personal_website = ""
+        self.current_work = "AI Team Leader"
+        self.current_work_place = "Raona Enginyers"
+        self.current_learning = ["Master in Quantum Computing"]
+        self.personal_website = "https://cyberingeniero.ai"
         self.interests= ["ML","DL","IA","Statistics"]
         self.language_spoken = ["es_ES", "en_US"]
 
