@@ -41,6 +41,7 @@
 <h5 align="center">ML Engineer | Master in advanced & Applied IA | Master in Full Stack Web Development | MSc Statistics | Math Teacher </h5>
 
 <h2></h2>
+
 ## 👨‍💻 About Me
 
 ```python
